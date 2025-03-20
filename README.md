@@ -1,1 +1,1 @@
-# Hi,This is chigee.github.io
+# Hi,this is the CHIGEE Open Platform
